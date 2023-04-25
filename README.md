@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsrathi&show_icons=true&theme=tokyonight)](https://github.com/komalsrathi/github-readme-stats)
+
 <!--
 **komalsrathi/komalsrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
